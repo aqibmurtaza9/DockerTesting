@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Practice Project\\DockerizeAPI\\",
+  "WorkspaceRootPath": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|d:\\practice project\\dockerizeapi\\dockerizeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|d:\\practice project\\dockertesting\\dockerizeapi\\dockerizeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|solutionrelative:dockerizeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|d:\\practice project\\dockertesting\\dockerizeapi\\dockerizeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|solutionrelative:dockerizeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|d:\\practice project\\dockertesting\\dockerizeapi\\dockerizeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|solutionrelative:dockerizeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "DockerizeAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "DockerizeAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T09:36:09.58Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DockerizeAPI\\Program.cs",
+              "ToolTip": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\Program.cs",
+              "RelativeToolTip": "DockerizeAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:45:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerizeAPI\\Dockerfile",
+              "ToolTip": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\Dockerfile",
+              "RelativeToolTip": "DockerizeAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-09T10:35:48.521Z",
               "EditorCaption": ""
             }
           ]

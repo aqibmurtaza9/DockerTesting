@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DockerizeAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39e79d1ab2f1405292389e343c9022601438d03f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DockerizeAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DockerizeAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

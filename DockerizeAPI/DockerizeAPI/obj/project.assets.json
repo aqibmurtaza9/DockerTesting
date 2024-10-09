@@ -531,11 +531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\DockerizeAPI.csproj",
+      "projectUniqueName": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\DockerizeAPI.csproj",
       "projectName": "DockerizeAPI",
-      "projectPath": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\DockerizeAPI.csproj",
+      "projectPath": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\DockerizeAPI.csproj",
       "packagesPath": "C:\\Users\\nexno\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\obj\\",
+      "outputPath": "D:\\Practice Project\\DockerTesting\\DockerizeAPI\\DockerizeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nexno\\AppData\\Roaming\\NuGet\\NuGet.Config",
