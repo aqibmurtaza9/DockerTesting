@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice Project\\DockerizeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|d:\\practice project\\dockerizeapi\\dockerizeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08001D3-97C1-471D-B802-1B14BF01B6A3}|DockerizeAPI\\DockerizeAPI.csproj|solutionrelative:dockerizeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DockerizeAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Practice Project\\DockerizeAPI\\DockerizeAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DockerizeAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:36:09.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
